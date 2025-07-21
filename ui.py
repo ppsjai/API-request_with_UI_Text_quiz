@@ -3,7 +3,7 @@
 from tkinter import *
 from quiz_brain import QuizBrain
 
-#or we can cutomize our Own color
+# or we can cutomize our Own color
 THEME_COLOR = "#000000"
 
 
